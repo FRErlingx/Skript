@@ -26,6 +26,6 @@ For support, contact me by discord *erlingx* or by [e-mail](mailto:contact@skyyt
 ## Used By
 
 These Skript are used by :
-- Terres Maudites
+- Cursed Land's
 - Redemption Of Curse (closed)
 
